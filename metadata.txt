@@ -1,7 +1,14 @@
 [general]
-name=Toolbox FreshWatersheds
-description=Este plugin ejecuta las herramientas de preparación de ficheros de simulación del modelo FreshWatersheds
+name= ToolbxFreshWatersheds
+email= horacio.hernandez@ugto.mx
+author= Jesus Horacio Hernandez Anguiano
+qgisMinimumVersion=3.12
+description=Este plugin permite ejecutar scripts de Python para procesar informacion espacial de geologia, usos de agua,
+    asi como diversos parametros, a traves de shapefiles para generar ficheros de simulacion del modelo de flujo
+    conjunto -subterraneo y superficial- FreshWatersheds
+ 
+about=Este plugin permite ejecutar scripts de Python para procesar y transformar la informaciÃ³n
+    necesaria para que la Interfaz de Usuario del modelo FreshWatersheds pueda generar ficheros de simulaciÃ³n.
 version=1.0
-qgisMinimumVersion=3.0
-author= Horacio Hernandez Anguiano
-email=horacio.hernandez@ugto.mx
+tracker=https://github.com
+repository=https://github.com/horandez/TOOLBOX-FRESHWATERSHEDS
