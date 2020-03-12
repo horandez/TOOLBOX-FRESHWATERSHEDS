@@ -1,0 +1,7 @@
+[general]
+name=Toolbox FreshWatersheds
+description=Este plugin ejecuta las herramientas de preparación de ficheros de simulación del modelo FreshWatersheds
+version=1.0
+qgisMinimumVersion=3.0
+author= Horacio Hernandez Anguiano
+email=horacio.hernandez@ugto.mx
